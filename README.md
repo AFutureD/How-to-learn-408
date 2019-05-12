@@ -22,7 +22,7 @@
   - [ ] 图
   - [ ] 查找
   - [ ] 排序
- - [ ] [计算机组成原理](Computer_Organization_and_Architecture/README.md)
+- [ ] [计算机组成原理](Computer_Organization_and_Architecture/README.md)
 - [ ] [操作系统](Operating_System/README.md)
 - [ ] [计算机网络](Computer_Networks/README.md)
 
