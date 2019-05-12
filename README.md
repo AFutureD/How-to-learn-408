@@ -14,6 +14,18 @@
 
 - 掌握一门计算机编程语言，本项目建议掌握 C 或 C++。
 
+## 项目进度
+
+- [ ] [数据结构](Data_Structures/README.md)
+  - [ ] 线性表
+  - [ ] 树
+  - [ ] 图
+  - [ ] 查找
+  - [ ] 排序
+ - [ ] [计算机组成原理](Computer_Organization_and_Architecture/README.md)
+- [ ] [操作系统](Operating_System/README.md)
+- [ ] [计算机网络](Computer_Networks/README.md)
+
 ## 关于本项目
 
 - [Github](https://github.com/AFutureD/How-to-learn-408)
