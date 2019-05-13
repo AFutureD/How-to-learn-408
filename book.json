@@ -15,7 +15,10 @@
 		"sharing-plus",
 		"toggle-chapters",
 		"multipart",
-		"ancre-navigation"
+		"ancre-navigation",
+		"back-to-top-button",
+		"chapter-fold",
+		 "pageview-count"
 	],
 	"pluginsConfig": {
 		"code": {
@@ -23,14 +26,15 @@
 		},
 		"tbfed-pagefooter": {
 			"copyright": "Copyright © AFuture 2019",
-			"modify_label": "本书发布时间：",
+			"modify_label": "本指南发布时间：",
 			"modify_format": "YYYY-MM-DD HH:mm:ss"
 		},
 		"sharing": {
-			"facebook": true,
-			"twitter": true,
+			"pocket": false,
+			"qq": false,
+            "twitter": false,
 			"weibo": true,
-			"qq": true
-		}
+			"all": ["instapaper","twitter", "weibo","messenger","qq"]
+       }
 	}
 }
