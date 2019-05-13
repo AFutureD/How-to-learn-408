@@ -4,20 +4,20 @@
 	"author": "AFuture",
 	"language": "zh-hans",
 	"plugins": [
-    "mathjax",
-    "code", 
-    "-search", 
-    "search-pro", 
-    "github", 
-    "splitter", 
-    "tbfed-pagefooter",
-    "-sharing", 
-    "sharing-plus",
-    "-highlight",
-    "toggle-chapters", 
-    "multipart", 
-    "ancre-navigation"
-  ],
+		"mathjax",
+		"code",
+		"-search",
+		"search-pro",
+		"github",
+		"splitter",
+		"tbfed-pagefooter",
+		"-sharing",
+		"sharing-plus",
+		"-highlight",
+		"toggle-chapters",
+		"multipart",
+		"ancre-navigation"
+	],
 	"pluginsConfig": {
 		"code": {
 			"copyButtons": true
@@ -33,4 +33,5 @@
 			"weibo": true,
 			"qq": true
 		}
+	}
 }
