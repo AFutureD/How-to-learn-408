@@ -1,0 +1,36 @@
+{
+	"title": "How to learn 408",
+	"description": "408 学习指南",
+	"author": "AFuture",
+	"language": "zh-hans",
+	"plugins": [
+    "mathjax",
+    "code", 
+    "-search", 
+    "search-pro", 
+    "github", 
+    "splitter", 
+    "tbfed-pagefooter",
+    "-sharing", 
+    "sharing-plus",
+    "-highlight",
+    "toggle-chapters", 
+    "multipart", 
+    "ancre-navigation"
+  ],
+	"pluginsConfig": {
+		"code": {
+			"copyButtons": true
+		},
+		"tbfed-pagefooter": {
+			"copyright": "Copyright © AFuture 2019",
+			"modify_label": "本书发布时间：",
+			"modify_format": "YYYY-MM-DD HH:mm:ss"
+		},
+		"sharing": {
+			"facebook": true,
+			"twitter": true,
+			"weibo": true,
+			"qq": true
+		}
+}
