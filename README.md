@@ -10,19 +10,20 @@
 
 ### 学习 408 的前提
 
-- 掌握一门计算机编程语言，本项目建议掌握 C 或 C++。
+掌握一门计算机编程语言，本项目建议掌握 C 或 C++。
 
 ## 项目进度
 
 - [ ] [数据结构](Data_Structures/README.md)
-    - [ ] 线性表
-    - [ ] 树
-    - [ ] 图
-    - [ ] 查找
-    - [ ] 排序
 - [ ] [计算机组成原理](Computer_Organization_and_Architecture/README.md)
 - [ ] [计算机操作系统](Operating_System/README.md)
 - [ ] [计算机网络](Computer_Networks/README.md)
+    - [ ] 第一章 
+    - [x] [第二章](Computer_Networks/chapter2.md)
+    - [ ] 第三章
+    - [ ] 第四章
+    - [ ] 第五章
+    - [ ] 第六章
 
 ## 关于本项目
 
