@@ -14,13 +14,13 @@
 
 ## 项目进度
 
-- [ ] [数据结构](Data_Structures/README.md)
+- [ ] ~~[数据结构](Data_Structures/README.md)~~
 - [ ] [计算机组成原理](Computer_Organization_and_Architecture/README.md)
 - [ ] [计算机操作系统](Operating_System/README.md)
 - [ ] [计算机网络](Computer_Networks/README.md)
     - [ ] 第一章 
-    - [x] [第二章](Computer_Networks/chapter2.md)
-    - [ ] 第三章
+    - [x] [第二章 物理层](Computer_Networks/chapter2.md)
+    - [x] [第三章 数据链路层](Computer_Networks/chapter3.md)
     - [ ] 第四章
     - [ ] 第五章
     - [ ] 第六章
