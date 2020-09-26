@@ -21,14 +21,23 @@
     - [ ] 第一章 
     - [x] [第二章 物理层](Computer_Networks/chapter2.md)
     - [x] [第三章 数据链路层](Computer_Networks/chapter3.md)
-    - [ ] 第四章
+    - [x] [第四章 网络层](Computer_Networks/chapter4.md)
     - [ ] 第五章
     - [ ] 第六章
+
+## 更新:
+
+📔 下载链接: [《计算机网络笔记 PDF Edition》shared by 坚果云](https://www.jianguoyun.com/p/DbennHYQsMzzBhiL_cAD)
+
+- [[September 11th, 2020]] 13:45: 更新 物理层 内容。
+- [[September 13th, 2020]] 19:22: 更新 数据链路层 内容。
+- [[September 26th, 2020]] 17:23: 更新 网络层 内容。
 
 ## 关于本项目
 
 - [Github](https://github.com/AFutureD/How-to-learn-408)
-- [Gitbook](https://afutured.gitbook.io/afuture)
+- [Roam Research](https://roamresearch.com/#/app/AFuture/page/Ep9sH05FO) 
+- [Gitbook](https://github.com/AFutureD/How-to-learn-408)
 
 ## 感谢
 
@@ -46,6 +55,6 @@
 
 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode"><img src="https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png" alt="" scale="0" width="88" height="31"></a>
 
-本项目采用[知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)进行许可
+本笔记所有内容除特别声明外，均采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可协议。转载请注明来自 AFuture 
 
 
