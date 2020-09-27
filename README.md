@@ -36,6 +36,8 @@
 
 ## 关于本项目
 
+本项目的访问量:  ![visitor](https://visitor-badge.glitch.me/badge?page_id=github.afuture.project_408)
+
 - [Github](https://github.com/AFutureD/How-to-learn-408)
 - [Roam Research](https://roamresearch.com/#/app/AFuture/page/Ep9sH05FO) 
 - [Gitbook](https://github.com/AFutureD/How-to-learn-408)
