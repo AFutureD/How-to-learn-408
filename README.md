@@ -41,7 +41,7 @@
 
 - [Github](https://github.com/AFutureD/How-to-learn-408)
 - [Roam Research](https://roamresearch.com/#/app/AFuture/page/Ep9sH05FO) 
-- [Gitbook](https://github.com/AFutureD/How-to-learn-408)
+- [Gitbook](https://afutured.gitbook.io/project_408/)
 
 ## 感谢
 
