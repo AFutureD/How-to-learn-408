@@ -22,8 +22,8 @@
     - [x] [第二章 物理层](Computer_Networks/chapter2.md)
     - [x] [第三章 数据链路层](Computer_Networks/chapter3.md)
     - [x] [第四章 网络层](Computer_Networks/chapter4.md)
-    - [ ] [第五章 传输层](Computer_Networks/chapter5.md)
-    - [ ] 第六章
+    - [x] [第五章 传输层](Computer_Networks/chapter5.md)
+    - [x] [第六章 应用层](Computer_Networks/chapter6.md)
 
 ## 更新:
 
@@ -33,6 +33,7 @@
 - [[September 13th, 2020]] 19:22: 更新 数据链路层 内容。
 - [[September 26th, 2020]] 17:23: 更新 网络层 内容。
 - [[September 27th, 2020]] 16:25: 更新 传输层 内容。
+- [[September 30th, 2020]] 12:45: 更新 应用层 内容。
 
 ## 关于本项目
 
